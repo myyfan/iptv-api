@@ -71,7 +71,9 @@ CGTN记录
 江西新闻
 江西移动
 江西教育
-
+江西南昌新闻综合,http://live.cooltv.top/tv/nctv.php?id=1
+江西南昌文旅,http://live.cooltv.top/tv/nctv.php?id=2
+江西南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
 
 
 📡卫视频道,#genre#
