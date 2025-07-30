@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250730073557 +0800">
+<tv date="20250730083618 +0800">
 	<channel id="怀旧剧场">
 		<display-name lang="zh">怀旧剧场</display-name>
 	</channel>
@@ -9285,6 +9285,9 @@
 	<programme channel="黑莓动画" start="20250730131300 +0800" stop="20250730145500 +0800">
 		<title lang="zh">天空的遇难船 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250730145500 +0800" stop="20250730164700 +0800">
+		<title lang="zh">业火的向日葵 日语版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -9314,6 +9317,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250730135400 +0800" stop="20250730152000 +0800">
 		<title lang="zh">陈真之拳镇山河</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250730152000 +0800" stop="20250730163600 +0800">
+		<title lang="zh">重装机甲</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>

@@ -1273,6 +1273,8 @@ CCTV老故事,http://113.57.93.165/rtp/228.0.0.238:6108$湖北联通组播源-ca
 CCTV老故事,http://113.57.111.4/rtp/228.0.0.238:6108$湖北联通组播源-cache:113.57.111.4
 CCTV老故事,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 CCTV老故事,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+CCTV老故事,http://183.239.248.42/rtp/239.20.0.227:2252$广东移动组播源-cache:183.239.248.42
+CCTV老故事,http://183.238.186.115/rtp/239.20.0.227:2252$广东移动组播源-cache:183.238.186.115
 CCTV风云足球,http://112.234.23.81:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云足球,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.229:80/PLTV/4/224/3221228668/1.m3u8?accountinfo=7Nbs4SAtmisdhfg9u9VfuRylKFo%2FsFe211XeT0tFiPe3sKM6ExysDo0g3A9CbIkx5b%2FFw3kQIXPRRrkOn3II%2B%2Fc0Ta4f4DIFOsGdGiU4JeF8fi9dPYnTHN8Os8jC4LZfFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%3D%3A20241026024257%2C-1%2C36.156.32.22%2C20241026024257%2CG_FENGSHANGZQ-CQ%2C1734208109853_10%3A13%3A6D%3AA1%3A26%3A38%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000019436166_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FG_FENGSHANGZQ-CQ%2FG_FENGSHANGZQ-CQ&icpid=88888888&from=5&popid=5&hms_devid=6449&prioritypopid=5
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
@@ -3671,6 +3673,7 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
@@ -3778,6 +3781,7 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
@@ -3786,9 +3790,11 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 东森综合,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
@@ -3911,6 +3917,7 @@ CHC动作电影,http://atcq62.3950.cn:35455/mgtv/644368714.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 
 🏀体育频道,#genre#
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
@@ -4070,6 +4077,7 @@ CCTV5+,http://122.9.151.210:2676/rtp/238.255.2.185:5999
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 五星体育,http://222.67.177.132/rtp/239.45.3.210:5140$上海电信组播源-cache:222.67.177.132
 五星体育,http://222.68.37.58/rtp/239.45.3.210:5140$上海电信组播源-cache:222.68.37.58
 五星体育,http://58.37.123.53/rtp/239.45.3.210:5140$上海电信组播源-cache:58.37.123.53
@@ -4306,7 +4314,8 @@ CCTV5+,http://122.9.151.210:2676/rtp/238.255.2.185:5999
 山东体育,http://124.128.73.58/rtp/239.253.254.22:8000$山东联通组播源-cache:124.128.73.58
 山东体育,http://123.129.70.178/rtp/239.253.254.22:8000$山东联通组播源-cache:123.129.70.178
 山东体育,http://119.164.216.162$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
-山东体育,http://111.14.181.15:9901/tsfile/live/1022_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 成都体育,http://125.70.223.124/rtp/239.93.0.224:1281$四川电信组播源-cache:125.70.223.124
 成都体育,http://118.116.81.215/rtp/239.93.0.224:1281$四川电信组播源-cache:118.116.81.215
 成都体育,http://171.217.157.203/rtp/239.93.0.224:1281$四川电信组播源-cache:171.217.157.203
@@ -4345,6 +4354,24 @@ CCTV5+,http://122.9.151.210:2676/rtp/238.255.2.185:5999
 江苏体育,http://180.121.245.92/rtp/239.49.1.19:6000$江苏电信组播源-cache:180.121.245.92
 江苏体育,http://121.234.134.46/rtp/239.49.1.19:6000$江苏电信组播源-cache:121.234.134.46
 江苏体育,http://221.225.226.47/rtp/239.49.1.19:6000$江苏电信组播源-cache:221.225.226.47
+江苏体育,http://180.105.209.130/rtp/239.49.8.117:8000$江苏电信组播源-cache:180.105.209.130
+江苏体育,http://180.117.246.93/rtp/239.49.8.117:8000$江苏电信组播源-cache:180.117.246.93
+江苏体育,http://180.105.201.25/rtp/239.49.8.117:8000$江苏电信组播源-cache:180.105.201.25
+江苏体育,http://180.107.7.220/rtp/239.49.8.117:8000$江苏电信组播源-cache:180.107.7.220
+江苏体育,http://180.102.252.23/rtp/239.49.8.117:8000$江苏电信组播源-cache:180.102.252.23
+江苏体育,http://222.189.250.92/rtp/239.49.8.117:8000$江苏电信组播源-cache:222.189.250.92
+江苏体育,http://121.233.165.155/rtp/239.49.8.117:8000$江苏电信组播源-cache:121.233.165.155
+江苏体育,http://180.113.103.229/rtp/239.49.8.117:8000$江苏电信组播源-cache:180.113.103.229
+江苏体育,http://180.127.229.219/rtp/239.49.8.117:8000$江苏电信组播源-cache:180.127.229.219
+江苏体育,http://221.225.73.7/rtp/239.49.8.117:8000$江苏电信组播源-cache:221.225.73.7
+江苏体育,http://121.232.178.75/rtp/239.49.8.117:8000$江苏电信组播源-cache:121.232.178.75
+江苏体育,http://58.221.214.82/rtp/239.49.8.117:8000$江苏电信组播源-cache:58.221.214.82
+江苏体育,http://117.86.50.46/rtp/239.49.8.117:8000$江苏电信组播源-cache:117.86.50.46
+江苏体育,http://117.60.60.50/rtp/239.49.8.117:8000$江苏电信组播源-cache:117.60.60.50
+江苏体育,http://117.86.48.191/rtp/239.49.8.117:8000$江苏电信组播源-cache:117.86.48.191
+江苏体育,http://180.121.245.92/rtp/239.49.8.117:8000$江苏电信组播源-cache:180.121.245.92
+江苏体育,http://121.234.134.46/rtp/239.49.8.117:8000$江苏电信组播源-cache:121.234.134.46
+江苏体育,http://221.225.226.47/rtp/239.49.8.117:8000$江苏电信组播源-cache:221.225.226.47
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
@@ -5064,10 +5091,6 @@ CN卡通,http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974
 浙江少儿,http://123.155.137.43/rtp/233.50.201.138:5140$浙江联通组播源-cache:123.155.137.43
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 河北少儿科教,http://106.116.0.78/rtp/239.254.200.21:6000$河北电信组播源-cache:106.116.0.78
 河北少儿科教,http://111.224.185.146/rtp/239.254.200.21:6000$河北电信组播源-cache:111.224.185.146
 河北少儿科教,http://101.17.122.84/rtp/239.253.92.174:6004$河北联通组播源-cache:101.17.122.84
