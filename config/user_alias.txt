@@ -30,17 +30,17 @@ CCTV兵器科技,兵器科技,CCTV兵器,CCTV兵器科技,CCTV-兵器科技,CCTV
 CCTV第一剧场,第一剧场,CCTV-第一剧场,CCTV第一剧场HD,风云剧场,中国电影,CCTV电影轮播
 CCTV发现之旅,发现之旅,CCTV发现之旅,CCTV-发现之旅,中央新影-发现之旅
 CCTV风云剧场,风云剧场,CCTV风云剧场,CCTV-风云剧场,CCTV风云剧场HD,CCTV风云播放
-风云音乐,CCTV风云音乐,CCTV-风云音乐,CCTV风云音乐HD
-风云足球,CCTV风云足球,CCTV-风云足球,CCTV风云足球HD
-央视台球,CCTV央视台球,CCTV-央视台球,CCTV央视台球HD,CCTV-台球
-高尔夫网球,CCTV高尔夫球,CCTV高尔夫·网球,CCTV-高尔夫网琿,CCTV高尔夫网球,CCTV-高尔夫网球,CCTV高尔夫网球HD,CCTV-央视高网
+CCTV风云音乐,风云音乐,CCTV-风云音乐,CCTV风云音乐HD
+CCTV风云足球,风云足球,CCTV-风云足球,CCTV风云足球HD
+CCTV央视台球,央视台球,CCTV-央视台球,CCTV央视台球HD,CCTV-台球
+CCTV高尔夫球,高尔夫网球,CCTV高尔夫·网球,CCTV-高尔夫网琿,CCTV高尔夫网球,CCTV-高尔夫网球,CCTV高尔夫网球HD,CCTV-央视高网
 CCTV怀旧剧场,怀旧剧场,CCTV怀旧剧场,CCTV-怀旧剧场,CCTV怀旧剧场HD,CCTV怀旧剧圿,CCTV-怀旧剧圿
-老故事,CCTV老故事,CCTV-老故事,CCTV老故亿,中央新影-老故事,中央新影-老故亿,重温经典
-女性时尚,CCTV女性时尿,CCTV-女性时尿,CCTV女性时尚,CCTV-女性时尚,CCTV女性时尚HD
-世界地理,CCTV世界地理,CCTV-世界地理,CCTV世界地理HD
-文化精品,CCTV文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD
+CCTV老故事,老故事,CCTV-老故事,CCTV老故亿,中央新影-老故事,中央新影-老故亿,重温经典
+CCTV女性时尚,女性时尚,CCTV女性时尿,CCTV-女性时尿,CCTV-女性时尚,CCTV女性时尚HD
+CCTV世界地理,世界地理,CCTV-世界地理,CCTV世界地理HD
+CCTV文化精品,文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD
 百姓健康,CCTV卫生健康,CCTV-卫生健康,CCTV卫生与健康
-央视中学生,中学生,CCTV中学甿,CCTV中学生,CCTV-中学生,中央新影-中学甿,中央新影-中学生,中央电视台中学生
+CCTV中学生,央视中学生,中学生,CCTV中学甿,CCTV-中学生,中央新影-中学甿,中央新影-中学生,中央电视台中学生
 
 CETV-1,CETV1,CETV1中国教育,CETV1 中国教育,中国教育1,中国教育1HD
 CETV-2,CETV2,CETV2中国教育,CETV2 中国教育,中国教育2,中国教育2HD
