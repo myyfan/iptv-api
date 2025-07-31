@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250731032206 +0800">
+<tv date="20250731033347 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7731,276 +7731,6 @@
 	<programme channel="甘肃卫视" start="20250731233200 +0800" stop="20250731235900 +0800">
 		<title lang="zh">月牙泉剧场</title>
 	</programme>
-	<channel id="电视指南">
-		<display-name lang="zh">电视指南</display-name>
-	</channel>
-	<programme channel="电视指南" start="20250731000000 +0800" stop="20250731003700 +0800">
-		<title lang="zh">综艺喜乐汇-2025-18</title>
-	</programme>
-	<programme channel="电视指南" start="20250731003700 +0800" stop="20250731005700 +0800">
-		<title lang="zh">我喜欢我推荐-珍稀野生动物在中国-5</title>
-	</programme>
-	<programme channel="电视指南" start="20250731005700 +0800" stop="20250731011700 +0800">
-		<title lang="zh">我喜欢我推荐-珍稀野生动物在中国-6</title>
-	</programme>
-	<programme channel="电视指南" start="20250731011700 +0800" stop="20250731013200 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-43</title>
-	</programme>
-	<programme channel="电视指南" start="20250731013200 +0800" stop="20250731015200 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-44</title>
-	</programme>
-	<programme channel="电视指南" start="20250731015200 +0800" stop="20250731015800 +0800">
-		<title lang="zh">名医大家话健康-中医解压法</title>
-	</programme>
-	<programme channel="电视指南" start="20250731015800 +0800" stop="20250731020000 +0800">
-		<title lang="zh">请您欣赏-新疆风光</title>
-	</programme>
-	<programme channel="电视指南" start="20250731020000 +0800" stop="20250731021000 +0800">
-		<title lang="zh">整点冲击播-2024-27</title>
-	</programme>
-	<programme channel="电视指南" start="20250731021000 +0800" stop="20250731025000 +0800">
-		<title lang="zh">探索发现(海外版)-2024-24</title>
-	</programme>
-	<programme channel="电视指南" start="20250731025000 +0800" stop="20250731030000 +0800">
-		<title lang="zh">数字飙榜-2024-24</title>
-	</programme>
-	<programme channel="电视指南" start="20250731030000 +0800" stop="20250731030100 +0800">
-		<title lang="zh">2025数字飙榜人名字幕-1</title>
-	</programme>
-	<programme channel="电视指南" start="20250731030100 +0800" stop="20250731032000 +0800">
-		<title lang="zh">我喜欢我推荐-字从遇见你-2</title>
-	</programme>
-	<programme channel="电视指南" start="20250731032000 +0800" stop="20250731035500 +0800">
-		<title lang="zh">军火之源-2021-25</title>
-	</programme>
-	<programme channel="电视指南" start="20250731035500 +0800" stop="20250731040000 +0800">
-		<title lang="zh">我喜欢我推荐-美丽中国-海南</title>
-	</programme>
-	<programme channel="电视指南" start="20250731040000 +0800" stop="20250731041500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-33</title>
-	</programme>
-	<programme channel="电视指南" start="20250731041500 +0800" stop="20250731043500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-34</title>
-	</programme>
-	<programme channel="电视指南" start="20250731043500 +0800" stop="20250731045500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-96</title>
-	</programme>
-	<programme channel="电视指南" start="20250731045500 +0800" stop="20250731050000 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-31</title>
-	</programme>
-	<programme channel="电视指南" start="20250731050000 +0800" stop="20250731053700 +0800">
-		<title lang="zh">综艺喜乐汇-2025-18</title>
-	</programme>
-	<programme channel="电视指南" start="20250731053700 +0800" stop="20250731055700 +0800">
-		<title lang="zh">我喜欢我推荐-珍稀野生动物在中国-5</title>
-	</programme>
-	<programme channel="电视指南" start="20250731055700 +0800" stop="20250731061700 +0800">
-		<title lang="zh">我喜欢我推荐-珍稀野生动物在中国-6</title>
-	</programme>
-	<programme channel="电视指南" start="20250731061700 +0800" stop="20250731063200 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-43</title>
-	</programme>
-	<programme channel="电视指南" start="20250731063200 +0800" stop="20250731065200 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-44</title>
-	</programme>
-	<programme channel="电视指南" start="20250731065200 +0800" stop="20250731065800 +0800">
-		<title lang="zh">名医大家话健康-中医解压法</title>
-	</programme>
-	<programme channel="电视指南" start="20250731065800 +0800" stop="20250731070000 +0800">
-		<title lang="zh">请您欣赏-新疆风光</title>
-	</programme>
-	<programme channel="电视指南" start="20250731070000 +0800" stop="20250731071000 +0800">
-		<title lang="zh">整点冲击播-2024-27</title>
-	</programme>
-	<programme channel="电视指南" start="20250731071000 +0800" stop="20250731075000 +0800">
-		<title lang="zh">探索发现(海外版)-2024-24</title>
-	</programme>
-	<programme channel="电视指南" start="20250731075000 +0800" stop="20250731080000 +0800">
-		<title lang="zh">数字飙榜-2024-24</title>
-	</programme>
-	<programme channel="电视指南" start="20250731080000 +0800" stop="20250731080100 +0800">
-		<title lang="zh">2025数字飙榜人名字幕-1</title>
-	</programme>
-	<programme channel="电视指南" start="20250731080100 +0800" stop="20250731082000 +0800">
-		<title lang="zh">我喜欢我推荐-字从遇见你-2</title>
-	</programme>
-	<programme channel="电视指南" start="20250731082000 +0800" stop="20250731085500 +0800">
-		<title lang="zh">军火之源-2021-25</title>
-	</programme>
-	<programme channel="电视指南" start="20250731085500 +0800" stop="20250731090000 +0800">
-		<title lang="zh">我喜欢我推荐-美丽中国-海南</title>
-	</programme>
-	<programme channel="电视指南" start="20250731090000 +0800" stop="20250731091500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-33</title>
-	</programme>
-	<programme channel="电视指南" start="20250731091500 +0800" stop="20250731093500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-34</title>
-	</programme>
-	<programme channel="电视指南" start="20250731093500 +0800" stop="20250731095500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-96</title>
-	</programme>
-	<programme channel="电视指南" start="20250731095500 +0800" stop="20250731100000 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-31</title>
-	</programme>
-	<programme channel="电视指南" start="20250731100000 +0800" stop="20250731103700 +0800">
-		<title lang="zh">综艺喜乐汇-2025-18</title>
-	</programme>
-	<programme channel="电视指南" start="20250731103700 +0800" stop="20250731105700 +0800">
-		<title lang="zh">我喜欢我推荐-珍稀野生动物在中国-5</title>
-	</programme>
-	<programme channel="电视指南" start="20250731105700 +0800" stop="20250731111700 +0800">
-		<title lang="zh">我喜欢我推荐-珍稀野生动物在中国-6</title>
-	</programme>
-	<programme channel="电视指南" start="20250731111700 +0800" stop="20250731113200 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-43</title>
-	</programme>
-	<programme channel="电视指南" start="20250731113200 +0800" stop="20250731115200 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-44</title>
-	</programme>
-	<programme channel="电视指南" start="20250731115200 +0800" stop="20250731115800 +0800">
-		<title lang="zh">名医大家话健康-中医解压法</title>
-	</programme>
-	<programme channel="电视指南" start="20250731115800 +0800" stop="20250731120000 +0800">
-		<title lang="zh">请您欣赏-新疆风光</title>
-	</programme>
-	<programme channel="电视指南" start="20250731120000 +0800" stop="20250731121000 +0800">
-		<title lang="zh">整点冲击播-2024-27</title>
-	</programme>
-	<programme channel="电视指南" start="20250731121000 +0800" stop="20250731125000 +0800">
-		<title lang="zh">探索发现(海外版)-2024-24</title>
-	</programme>
-	<programme channel="电视指南" start="20250731125000 +0800" stop="20250731130000 +0800">
-		<title lang="zh">数字飙榜-2024-24</title>
-	</programme>
-	<programme channel="电视指南" start="20250731130000 +0800" stop="20250731130100 +0800">
-		<title lang="zh">2025数字飙榜人名字幕-1</title>
-	</programme>
-	<programme channel="电视指南" start="20250731130100 +0800" stop="20250731132000 +0800">
-		<title lang="zh">我喜欢我推荐-字从遇见你-2</title>
-	</programme>
-	<programme channel="电视指南" start="20250731132000 +0800" stop="20250731135500 +0800">
-		<title lang="zh">军火之源-2021-25</title>
-	</programme>
-	<programme channel="电视指南" start="20250731135500 +0800" stop="20250731140000 +0800">
-		<title lang="zh">我喜欢我推荐-美丽中国-海南</title>
-	</programme>
-	<programme channel="电视指南" start="20250731140000 +0800" stop="20250731141500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-33</title>
-	</programme>
-	<programme channel="电视指南" start="20250731141500 +0800" stop="20250731143500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-34</title>
-	</programme>
-	<programme channel="电视指南" start="20250731143500 +0800" stop="20250731145500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-96</title>
-	</programme>
-	<programme channel="电视指南" start="20250731145500 +0800" stop="20250731150000 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-31</title>
-	</programme>
-	<programme channel="电视指南" start="20250731150000 +0800" stop="20250731153700 +0800">
-		<title lang="zh">综艺喜乐汇-2025-18</title>
-	</programme>
-	<programme channel="电视指南" start="20250731153700 +0800" stop="20250731155700 +0800">
-		<title lang="zh">我喜欢我推荐-珍稀野生动物在中国-5</title>
-	</programme>
-	<programme channel="电视指南" start="20250731155700 +0800" stop="20250731161700 +0800">
-		<title lang="zh">我喜欢我推荐-珍稀野生动物在中国-6</title>
-	</programme>
-	<programme channel="电视指南" start="20250731161700 +0800" stop="20250731163200 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-43</title>
-	</programme>
-	<programme channel="电视指南" start="20250731163200 +0800" stop="20250731165200 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-44</title>
-	</programme>
-	<programme channel="电视指南" start="20250731165200 +0800" stop="20250731165800 +0800">
-		<title lang="zh">名医大家话健康-中医解压法</title>
-	</programme>
-	<programme channel="电视指南" start="20250731165800 +0800" stop="20250731170000 +0800">
-		<title lang="zh">请您欣赏-新疆风光</title>
-	</programme>
-	<programme channel="电视指南" start="20250731170000 +0800" stop="20250731171000 +0800">
-		<title lang="zh">整点冲击播-2024-27</title>
-	</programme>
-	<programme channel="电视指南" start="20250731171000 +0800" stop="20250731171500 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-31</title>
-	</programme>
-	<programme channel="电视指南" start="20250731171500 +0800" stop="20250731175500 +0800">
-		<title lang="zh">探索发现(海外版)-2024-24</title>
-	</programme>
-	<programme channel="电视指南" start="20250731175500 +0800" stop="20250731180000 +0800">
-		<title lang="zh">我喜欢我推荐-美丽中国-海南</title>
-	</programme>
-	<programme channel="电视指南" start="20250731180000 +0800" stop="20250731181500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-21</title>
-	</programme>
-	<programme channel="电视指南" start="20250731181500 +0800" stop="20250731183500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-22</title>
-	</programme>
-	<programme channel="电视指南" start="20250731183500 +0800" stop="20250731185500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-97</title>
-	</programme>
-	<programme channel="电视指南" start="20250731185500 +0800" stop="20250731190000 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-31</title>
-	</programme>
-	<programme channel="电视指南" start="20250731190000 +0800" stop="20250731194000 +0800">
-		<title lang="zh">综艺喜乐汇-2025-19</title>
-	</programme>
-	<programme channel="电视指南" start="20250731194000 +0800" stop="20250731200000 +0800">
-		<title lang="zh">我喜欢我推荐-珍稀野生动物在中国-7</title>
-	</programme>
-	<programme channel="电视指南" start="20250731200000 +0800" stop="20250731202000 +0800">
-		<title lang="zh">我喜欢我推荐-珍稀野生动物在中国-8</title>
-	</programme>
-	<programme channel="电视指南" start="20250731202000 +0800" stop="20250731203500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-23</title>
-	</programme>
-	<programme channel="电视指南" start="20250731203500 +0800" stop="20250731205500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-24</title>
-	</programme>
-	<programme channel="电视指南" start="20250731205500 +0800" stop="20250731205800 +0800">
-		<title lang="zh">八段锦康复版-五劳七伤往后瞧</title>
-	</programme>
-	<programme channel="电视指南" start="20250731205800 +0800" stop="20250731210000 +0800">
-		<title lang="zh">请您欣赏-海南风光</title>
-	</programme>
-	<programme channel="电视指南" start="20250731210000 +0800" stop="20250731211000 +0800">
-		<title lang="zh">整点冲击播-2025-15</title>
-	</programme>
-	<programme channel="电视指南" start="20250731211000 +0800" stop="20250731211500 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-31</title>
-	</programme>
-	<programme channel="电视指南" start="20250731211500 +0800" stop="20250731215500 +0800">
-		<title lang="zh">探索发现(海外版)-2024-25</title>
-	</programme>
-	<programme channel="电视指南" start="20250731215500 +0800" stop="20250731220500 +0800">
-		<title lang="zh">数字飙榜-2024-25</title>
-	</programme>
-	<programme channel="电视指南" start="20250731220500 +0800" stop="20250731220600 +0800">
-		<title lang="zh">2025数字飙榜人名字幕-1</title>
-	</programme>
-	<programme channel="电视指南" start="20250731220600 +0800" stop="20250731221700 +0800">
-		<title lang="zh">我喜欢我推荐-美术里的中国-12</title>
-	</programme>
-	<programme channel="电视指南" start="20250731221700 +0800" stop="20250731225200 +0800">
-		<title lang="zh">军火之源-2021-26</title>
-	</programme>
-	<programme channel="电视指南" start="20250731225200 +0800" stop="20250731225700 +0800">
-		<title lang="zh">在线大名医-养好肺脏美白肌肤</title>
-	</programme>
-	<programme channel="电视指南" start="20250731225700 +0800" stop="20250731230000 +0800">
-		<title lang="zh">垫播节目-美丽中国-长白山</title>
-	</programme>
-	<programme channel="电视指南" start="20250731230000 +0800" stop="20250731231500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-21</title>
-	</programme>
-	<programme channel="电视指南" start="20250731231500 +0800" stop="20250731233500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2022-22</title>
-	</programme>
-	<programme channel="电视指南" start="20250731233500 +0800" stop="20250731235500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-97</title>
-	</programme>
-	<programme channel="电视指南" start="20250731235500 +0800" stop="20250731235900 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-31</title>
-	</programme>
 	<channel id="福建体育">
 		<display-name lang="zh">福建体育</display-name>
 	</channel>
@@ -8186,6 +7916,150 @@
 	</programme>
 	<programme channel="翡翠台" start="20250731235500 +0800" stop="20250731235900 +0800">
 		<title lang="zh">茶是故乡浓#19[粤]</title>
+	</programme>
+	<channel id="CCTV老故事">
+		<display-name lang="zh">CCTV老故事</display-name>
+	</channel>
+	<programme channel="CCTV老故事" start="20250731000000 +0800" stop="20250731003000 +0800">
+		<title lang="zh">安徽文房四宝(2)</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731003000 +0800" stop="20250731035000 +0800">
+		<title lang="zh">文艺名家讲故事:王黎光</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731035000 +0800" stop="20250731040000 +0800">
+		<title lang="zh">文艺名家讲故事:王黎光</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731040000 +0800" stop="20250731060100 +0800">
+		<title lang="zh">文艺名家讲故事:王黎光</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731060100 +0800" stop="20250731063200 +0800">
+		<title lang="zh">亲历:将军大使出征记(3)</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731063200 +0800" stop="20250731064700 +0800">
+		<title lang="zh">信用中国:韩雷军</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731064700 +0800" stop="20250731070300 +0800">
+		<title lang="zh">信用中国:王强</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731070300 +0800" stop="20250731072000 +0800">
+		<title lang="zh">攀登者:月亮下的故事</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731072000 +0800" stop="20250731080000 +0800">
+		<title lang="zh">中华文明:世界遗产之中国档案</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731080000 +0800" stop="20250731080900 +0800">
+		<title lang="zh">中华文明:世界遗产之中国档案</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731080900 +0800" stop="20250731084900 +0800">
+		<title lang="zh">重访:大李小李和老李</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731084900 +0800" stop="20250731090100 +0800">
+		<title lang="zh">强国智造:点亮想象力</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731090100 +0800" stop="20250731093100 +0800">
+		<title lang="zh">亲历:城市的记忆与重生-济南篇</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731093100 +0800" stop="20250731094100 +0800">
+		<title lang="zh">信用中国:刘向阳</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731094100 +0800" stop="20250731095200 +0800">
+		<title lang="zh">信用中国:梁轶</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731095200 +0800" stop="20250731104000 +0800">
+		<title lang="zh">中华文明:世界遗产之中国档案</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731104000 +0800" stop="20250731112300 +0800">
+		<title lang="zh">重访:探寻神秘的南极(上)</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731112300 +0800" stop="20250731113200 +0800">
+		<title lang="zh">在影像里重逢(27)</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731113200 +0800" stop="20250731114700 +0800">
+		<title lang="zh">中华文明:颐和园珍宝等</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731114700 +0800" stop="20250731120400 +0800">
+		<title lang="zh">品质中国:改变从头开始</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731120400 +0800" stop="20250731121900 +0800">
+		<title lang="zh">品质中国:开启反刍养殖新纪元</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731121900 +0800" stop="20250731130100 +0800">
+		<title lang="zh">纪录中国:开生面媒介即信息等</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731130100 +0800" stop="20250731133200 +0800">
+		<title lang="zh">亲历:将军大使出征记(3)</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731133200 +0800" stop="20250731134700 +0800">
+		<title lang="zh">信用中国:韩雷军</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731134700 +0800" stop="20250731140300 +0800">
+		<title lang="zh">信用中国:王强</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731140300 +0800" stop="20250731142000 +0800">
+		<title lang="zh">攀登者:月亮下的故事</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731142000 +0800" stop="20250731150900 +0800">
+		<title lang="zh">中华文明:世界遗产之中国档案</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731150900 +0800" stop="20250731154900 +0800">
+		<title lang="zh">重访:大李小李和老李</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731154900 +0800" stop="20250731160000 +0800">
+		<title lang="zh">强国智造:点亮想象力</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731160000 +0800" stop="20250731163000 +0800">
+		<title lang="zh">安徽文房四宝(3)</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731163000 +0800" stop="20250731170100 +0800">
+		<title lang="zh">文艺名家讲故事:冯远</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731170100 +0800" stop="20250731173100 +0800">
+		<title lang="zh">亲历:城市的记忆与重生-济南篇</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731173100 +0800" stop="20250731174100 +0800">
+		<title lang="zh">信用中国:刘向阳</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731174100 +0800" stop="20250731175200 +0800">
+		<title lang="zh">信用中国:梁轶</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731175200 +0800" stop="20250731184000 +0800">
+		<title lang="zh">中华文明:世界遗产之中国档案</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731184000 +0800" stop="20250731192300 +0800">
+		<title lang="zh">重访:探寻神秘的南极(上)</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731192300 +0800" stop="20250731193200 +0800">
+		<title lang="zh">在影像里重逢(27)</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731193200 +0800" stop="20250731194700 +0800">
+		<title lang="zh">中华文明:颐和园珍宝等</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731194700 +0800" stop="20250731200400 +0800">
+		<title lang="zh">品质中国:改变从头开始</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731200400 +0800" stop="20250731201900 +0800">
+		<title lang="zh">品质中国:开启反刍养殖新纪元</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731201900 +0800" stop="20250731210100 +0800">
+		<title lang="zh">纪录中国:开生面媒介即信息等</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731210100 +0800" stop="20250731213200 +0800">
+		<title lang="zh">亲历:将军大使出征记(3)</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731213200 +0800" stop="20250731214700 +0800">
+		<title lang="zh">信用中国:韩雷军</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731214700 +0800" stop="20250731220300 +0800">
+		<title lang="zh">信用中国:王强</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731220300 +0800" stop="20250731222000 +0800">
+		<title lang="zh">攀登者:月亮下的故事</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731222000 +0800" stop="20250731230900 +0800">
+		<title lang="zh">中华文明:世界遗产之中国档案</title>
+	</programme>
+	<programme channel="CCTV老故事" start="20250731230900 +0800" stop="20250731234900 +0800">
+		<title lang="zh">重访:大李小李和老李</title>
 	</programme>
 	<channel id="西藏卫视">
 		<display-name lang="zh">西藏卫视</display-name>
@@ -9285,6 +9159,57 @@
 	<programme channel="青海卫视" start="20250731234000 +0800" stop="20250731235900 +0800">
 		<title lang="zh">挑战果岭</title>
 	</programme>
+	<channel id="CCTV高尔夫球">
+		<display-name lang="zh">CCTV高尔夫球</display-name>
+	</channel>
+	<programme channel="CCTV高尔夫球" start="20250731002900 +0800" stop="20250731021200 +0800">
+		<title lang="zh">赛事集锦(高清体育)-2023-99-2023年LPGA锦标赛 第三轮</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731021200 +0800" stop="20250731040000 +0800">
+		<title lang="zh">2024年温布尔登网球赛-男单决赛 (4K )(版权原因不可回看)</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731040000 +0800" stop="20250731054800 +0800">
+		<title lang="zh">实况录像-2024年美国网球公开赛 女单第四轮 郑钦文-维基奇(版权原因不可回看)</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731054800 +0800" stop="20250731070800 +0800">
+		<title lang="zh">2024年中国网球公开赛-男单第一轮(布云朝克特 - 商竣程)(4K)</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731070800 +0800" stop="20250731085300 +0800">
+		<title lang="zh">2022中国业余高尔夫球公开赛总决赛- 决赛轮</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731085300 +0800" stop="20250731101300 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年法国网球公开赛 女单决赛(4K)(版权原因不可回看)</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731101300 +0800" stop="20250731113800 +0800">
+		<title lang="zh">实况录像-2024年WTA总决赛 单打决赛 郑钦文-高芙</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731113800 +0800" stop="20250731132100 +0800">
+		<title lang="zh">赛事集锦(高清体育)-2023-74-2023年高尔夫英国公开赛 第四轮</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731132100 +0800" stop="20250731144300 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025年温布尔登网球赛4(4K)</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731144300 +0800" stop="20250731160300 +0800">
+		<title lang="zh">2024年ATP1000男子网球大师赛-罗马站-决赛</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731160300 +0800" stop="20250731174600 +0800">
+		<title lang="zh">2024年巴黎奥运会-高尔夫男子个人比杆赛第三轮</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731174600 +0800" stop="20250731190800 +0800">
+		<title lang="zh">2025年ATP1000男子网球大师赛-迈阿密站 决赛(4K)</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731190800 +0800" stop="20250731202800 +0800">
+		<title lang="zh">2024年巴黎奥运会网球精选-女单第三轮(郑钦文-纳瓦罗)</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731202800 +0800" stop="20250731221100 +0800">
+		<title lang="zh">2024年英国女子高尔夫公开赛-第三轮</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731221100 +0800" stop="20250731233600 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025年法国网球公开赛2(4K)</title>
+	</programme>
+	<programme channel="CCTV高尔夫球" start="20250731233600 +0800" stop="20250731235900 +0800">
+		<title lang="zh">2024年温布尔登网球赛-男单半决赛 (4K )(版权原因不可回看)</title>
+	</programme>
 	<channel id="魅力足球">
 		<display-name lang="zh">魅力足球</display-name>
 	</channel>
@@ -9489,25 +9414,25 @@
 	<channel id="新动漫">
 		<display-name lang="zh">新动漫</display-name>
 	</channel>
-	<channel id="风云足球">
-		<display-name lang="zh">风云足球</display-name>
+	<channel id="CCTV风云足球">
+		<display-name lang="zh">CCTV风云足球</display-name>
 	</channel>
 	<channel id="辽宁体育">
 		<display-name lang="zh">辽宁体育</display-name>
 	</channel>
-	<channel id="风云音乐">
-		<display-name lang="zh">风云音乐</display-name>
+	<channel id="CCTV风云音乐">
+		<display-name lang="zh">CCTV风云音乐</display-name>
 	</channel>
-	<channel id="世界地理">
-		<display-name lang="zh">世界地理</display-name>
+	<channel id="CCTV世界地理">
+		<display-name lang="zh">CCTV世界地理</display-name>
 	</channel>
 	<channel id="CCTV兵器科技">
 		<display-name lang="zh">CCTV兵器科技</display-name>
 	</channel>
-	<channel id="女性时尚">
-		<display-name lang="zh">女性时尚</display-name>
+	<channel id="CCTV女性时尚">
+		<display-name lang="zh">CCTV女性时尚</display-name>
 	</channel>
-	<channel id="央视台球">
-		<display-name lang="zh">央视台球</display-name>
+	<channel id="CCTV央视台球">
+		<display-name lang="zh">CCTV央视台球</display-name>
 	</channel>
 </tv>
