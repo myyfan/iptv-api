@@ -11,6 +11,7 @@ CCTV-1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
+CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,http://my.vitop.com:35455/mgtv/608807420.m3u8
 CCTV-1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225762/2/index.m3u8
 CCTV-1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225918/2/index.m3u8
@@ -149,13 +150,13 @@ CCTV-3,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226308/1.m3u8
 CCTV-3,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226461/1.m3u8
 CCTV-3,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226614/1.m3u8
 CCTV-3,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
-CCTV-4,http://go.bkpcp.top/mg/cctv4
 CCTV-4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
 CCTV-4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/index.m3u8
 CCTV-4,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
 CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV-4,http://go.bkpcp.top/mg/cctv4
 CCTV-4,http://my.vitop.com:35455/mgtv/631780421.m3u8
 CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
 CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
@@ -195,7 +196,6 @@ CCTV-5,http://go.bkpcp.top/mg/cctv5
 CCTV-5,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8
 CCTV-5,http://218.15.183.23:9901/tsfile/live/23022_1.m3u8
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/225.1.101.187:7523
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV-5,http://my.vitop.com:35455/mgtv/641886683.m3u8
 CCTV-5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
 CCTV-5,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -919,6 +919,7 @@ CCTV央视台球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch000000909900
 广东卫视,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227201/1.m3u8
 广东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
 浙江卫视,http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225959/index.m3u8
@@ -1594,6 +1595,7 @@ CCTV央视台球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch000000909900
 海南卫视,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226417/1.m3u8
 海南卫视,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226562/1.m3u8
 海南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8
+河北卫视,http://lu.wqwqwq.sbs/itv/5000000006000040016.m3u8?cdn=bestzb
 河北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225961/index.m3u8
 河北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225991/index.m3u8
 河北卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
@@ -2350,7 +2352,6 @@ CCTV5,http://go.bkpcp.top/mg/cctv5
 CCTV5,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8
 CCTV5,http://218.15.183.23:9901/tsfile/live/23022_1.m3u8
 CCTV5,http://qjrhc.jydjd.top:2911/udp/225.1.101.187:7523
-CCTV5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV5,http://my.vitop.com:35455/mgtv/641886683.m3u8
 CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
 CCTV5,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
