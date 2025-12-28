@@ -173,7 +173,6 @@ CCTV-2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225643/2
 CCTV-2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV-2,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://124.235.225.122:2284/mgtv/631780532.m3u8
-CCTV-2,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://120.211.62.180:8000/hls/2/index.m3u8
 CCTV-2,http://113.90.245.216:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
@@ -328,6 +327,7 @@ CCTV-3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3
 CCTV-3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225647/2/index.m3u8
 CCTV-3,http://go.bkpcp.top/mg/cctv3
 CCTV-3,http://218.89.240.144:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://lt.hxtre.com:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 CCTV-3,http://113.90.245.216:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://tv.tslgpt.top:5050/smart.php
@@ -485,6 +485,7 @@ CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-4,http://go.bkpcp.top/mg/cctv4
+CCTV-4,http://lt.hxtre.com:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
 CCTV-4,http://120.211.62.180:8000/hls/4/index.m3u8
 CCTV-4,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 CCTV-4,http://113.90.245.216:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -650,6 +651,9 @@ CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 CCTV-5,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8
 CCTV-5,http://218.15.183.23:9901/tsfile/live/23022_1.m3u8
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/225.1.101.187:7523
+CCTV-5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://123.129.70.178:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://113.90.245.216:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV-5,http://tv.tslgpt.top:5050/smart.php
@@ -834,6 +838,7 @@ CCTV-5,http://58.19.43.46:9901/tsfile/live/1024_1.m3u8
 CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8
 CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225650/2/index.m3u8
+CCTV-6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-6,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV-6,http://113.90.245.216:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://tv.tslgpt.top:5050/smart.php
@@ -1003,8 +1008,7 @@ CCTV-7,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
 CCTV-7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-CCTV-7,http://223.241.247.214:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://116.9.204.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://lt.hxtre.com:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
 CCTV-7,http://120.211.62.180:8000/hls/7/index.m3u8
 CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 CCTV-7,http://113.90.245.216:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1166,7 +1170,7 @@ CCTV-8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2
 CCTV-8,http://go.bkpcp.top/mg/cctv8
 CCTV-8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225635/2/index.m3u8
 CCTV-8,http://zzssw01.55555.io:9901/tsfile/live/0008_1.m3u8
-CCTV-8,http://113.57.111.4:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://lt.hxtre.com:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
 CCTV-8,http://113.90.245.216:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
 CCTV-8,http://123.129.70.178:9901/tsfile/live/0008_1.m3u8
@@ -1330,7 +1334,8 @@ CCTV-9,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225646/2
 CCTV-9,http://go.bkpcp.top/mg/cctv9
 CCTV-9,http://58.17.48.228:808/hls/9/index.m3u8
 CCTV-9,http://zzssw01.55555.io:9901/tsfile/live/0009_1.m3u8
-CCTV-9,http://124.116.183.146:9901/tsfile/live/0009_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://61.136.172.236:9901/tsfile/live/0009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV-9,http://120.211.62.180:8000/hls/9/index.m3u8
 CCTV-9,http://113.90.245.216:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
@@ -1506,6 +1511,8 @@ CCTV-10,http://go.bkpcp.top/mg/cctv10
 CCTV-10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225627/2/index.m3u8
 CCTV-10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225636/2/index.m3u8
 CCTV-10,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-10,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV-10,http://120.211.62.180:8000/hls/10/index.m3u8
 CCTV-10,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 CCTV-10,http://113.90.245.216:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1663,6 +1670,8 @@ CCTV-10,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/322
 CCTV-10,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 CCTV-11,http://go.bkpcp.top/mg/cctv11
+CCTV-11,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV-11,http://120.211.62.180:8000/hls/11/index.m3u8
 CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8
 CCTV-11,http://tv.tslgpt.top:5050/smart.php
@@ -1968,6 +1977,7 @@ CCTV-13,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/
 CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 CCTV-13,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-13,http://58.19.43.46:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://120.211.62.180:8000/hls/13/index.m3u8
 CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13
 CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
@@ -2111,7 +2121,7 @@ CCTV-14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225639/
 CCTV-14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225640/2/index.m3u8
 CCTV-14,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-CCTV-14,http://113.57.111.4:1111/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV-14,http://120.211.62.180:8000/hls/14/index.m3u8
 CCTV-14,http://113.90.245.216:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
@@ -2256,7 +2266,7 @@ CCTV-14,http://ycsj.aguihome.com:4022/udp/233.50.200.103:5140
 CCTV-14,http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 CCTV-15,http://go.bkpcp.top/mg/cctv15
-CCTV-15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV-15,http://120.211.62.180:8000/hls/15/index.m3u8
 CCTV-15,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 CCTV-15,http://113.90.245.216:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2392,7 +2402,7 @@ CCTV-15,http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
 CCTV-15,http://gmxw.7766.org:808/hls/102/index.m3u8
 CCTV-16,https://smart.pendy.dpdns.org/Smart.php?id=cctv16
 CCTV-16,http://go.bkpcp.top/mg/cctv16
-CCTV-16,http://api2.52tb.xyz/info?id=18&token=20230218zdxlqr#rtsp://221.7.61.147/PLTV/88888910/224/3221225605/10000100000000060000000000566169_0.smil
+CCTV-16,http://lt.hxtre.com:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-16,http://rihou.cc:555/tv/[mg]CCTV-16
 CCTV-16,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
 CCTV-16,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/.m3u8
@@ -2488,8 +2498,7 @@ CCTV-16,http://122.9.151.210:3203/rtp/238.255.2.219:5999
 CCTV-16,http://ycsj.aguihome.com:4022/udp/233.50.201.192:5140
 CCTV-16,http://ycsj.aguihome.com:4022/udp/233.50.200.112:5140
 CCTV-17,http://go.bkpcp.top/mg/cctv17
-CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8?key=txiptv
+CCTV-17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://120.211.62.180:8000/hls/17/index.m3u8
 CCTV-17,http://hmfs.f3322.net:3388/hls/37/index.m3u8
 CCTV-17,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
@@ -2725,6 +2734,7 @@ CCTV兵器科技,http://dassby.qqff.top:99/live/兵器科技/index.m3u8
 CCTV发现之旅,http://ttkx.cc:1380/公5558/mg9.php
 CCTV发现之旅,http://tvbox6.icu/tv/migu.php?id=fxzl
 CCTV发现之旅,http://125.210.152.18:9090/live/FXZL_750.m3u8
+CCTV文化精品,http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81&auth=666858
 CCTV文化精品,http://221.205.180.120:8004/rtp/226.0.2.219:9664
 CCTV文化精品,http://116.179.130.16:6001/rtp/226.0.2.219:9664
 CCTV文化精品,http://171.117.158.149:9999/rtp/226.0.2.219:9664
@@ -2764,6 +2774,7 @@ CCTV第一剧场,http://189.1.219.223:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
 CCTV第一剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410?AuthInfo=xxx&userid=gf001&userid=gf001
 CCTV第一剧场,http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8
 CCTV第一剧场,http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
+CCTV风云剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&auth=666858
 CCTV风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8
 CCTV风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
 CCTV风云剧场,http://183.220.107.138:4022/rtp/239.10.0.203:5140
@@ -2850,8 +2861,8 @@ CCTV高尔夫球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/8612898
 CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 
 江西频道,#genre#
-江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://223.241.247.214:9901/tsfile/live/0138_1.m3u8#rtsp://60.13.39.19/PLTV/88888910/224/3221225541/10000100000000060000000000107321_0.smil#rtsp://180.95.143.19/PLTV/88888910/224/3221225541/10000100000000060000000000107321_0.smil
+江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://218.89.240.144:59901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 江西卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 江西卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -3227,7 +3238,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 江西卫视,http://220.201.218.83/rtp/229.58.190.74:5000$黑龙江联通组播源-cache:220.201.218.83
 江西卫视,http://1.62.3.47/rtp/229.58.190.74:5000$黑龙江联通组播源-cache:1.62.3.47
 江西卫视,http://218.8.87.96/rtp/229.58.190.74:5000$黑龙江联通组播源-cache:218.8.87.96
-江西卫视,http://113.90.245.216:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://172.16.254.254
 江西卫视,http://120.196.232.17
 江西卫视,http://10.8.8.200
@@ -3350,6 +3360,7 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 江西卫视,http://171.117.73.77/rtp/226.0.2.54:8344
 江西卫视,http://171.116.223.133/rtp/226.0.2.54:8344
 江西卫视,http://183.184.205.163/rtp/226.0.2.54:8344
+江西卫视,http://221.205.134.86/rtp/226.0.2.54:8344
 江西都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
 江西都市,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225584/index.m3u8?fmt=ts2hls
 江西都市,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls?zjiangxd
@@ -3396,10 +3407,8 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 江西南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
 
 卫视频道,#genre#
-广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?#rtsp://116.176.26.18/PLTV/88888910/224/3221225527/10000100000000060000000000107307_0.smil#rtsp://60.13.39.18/PLTV/88888910/224/3221225551/10000100000000060000000000107331_0.smil
-广东卫视,http://124.116.183.146:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://118.122.189.74:9901/tsfile/live/0125_1.m3u8
-广东卫视,http://116.9.204.242:9901/tsfile/live/0125_2.m3u8?key=tvbox6_com&playlive=1&authid=0
+广东卫视,http://ttkx.cc:1380/653哈哈/mg9.php?id=gdws
+广东卫视,http://59.39.89.130:60901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0#rtsp://116.176.26.18/PLTV/88888910/224/3221225527/10000100000000060000000000107307_0.smil
 广东卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 广东卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 广东卫视,http://222.67.177.132/rtp/239.45.3.230:5140$上海电信组播源-cache:222.67.177.132
@@ -3896,13 +3905,15 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 广东卫视,http://61.156.228.12/rtp/239.253.254.90:8000
 广东卫视,http://119.191.124.47/rtp/239.253.254.90:8000
 广东卫视,http://123.132.233.194/rtp/239.253.254.90:8000
+广东卫视,http://221.0.78.198/rtp/239.253.254.90:8000
+广东卫视,http://112.255.74.68/rtp/239.253.254.90:8000
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-浙江卫视,http://222.169.85.8:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,http://218.3.138.25:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
 浙江卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 浙江卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -4401,8 +4412,8 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 浙江卫视,http://123.129.70.178/rtp/239.253.254.84:8000
 浙江卫视,http://123.174.106.130/rtp/239.1.1.38:8038
 浙江卫视,http://113.25.252.226/rtp/239.1.1.38:8038
-湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://124.116.183.146:9901/tsfile/live/0128_1.m3u8
+湖南卫视,http://218.3.138.25:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://116.9.204.242:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 湖南卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 湖南卫视,http://222.67.177.132/rtp/239.45.3.228:5140$上海电信组播源-cache:222.67.177.132
@@ -4794,8 +4805,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 湖南卫视,http://220.201.218.83/rtp/229.58.190.142:5000$黑龙江联通组播源-cache:220.201.218.83
 湖南卫视,http://1.62.3.47/rtp/229.58.190.142:5000$黑龙江联通组播源-cache:1.62.3.47
 湖南卫视,http://218.8.87.96/rtp/229.58.190.142:5000$黑龙江联通组播源-cache:218.8.87.96
-湖南卫视,http://120.211.62.180:8000/hls/30/index.m3u8
-湖南卫视,http://113.90.245.216:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://172.16.254.254
 湖南卫视,http://10.8.8.200
 湖南卫视,http://222.67.177.132/rtp/239.45.3.228:5140
@@ -4901,9 +4910,10 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 湖南卫视,http://61.156.228.12/rtp/239.253.254.82:8000
 湖南卫视,http://119.191.124.47/rtp/239.253.254.82:8000
 湖南卫视,http://123.132.233.194/rtp/239.253.254.82:8000
-北京卫视,http://118.122.189.74:9901/tsfile/live/0122_1.m3u8
-北京卫视,http://218.3.138.25:1111/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://124.116.183.146:9901/tsfile/live/0122_1.m3u8
+湖南卫视,http://221.0.78.198/rtp/239.253.254.82:8000
+湖南卫视,http://112.255.74.68/rtp/239.253.254.82:8000
+北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8#rtsp://221.7.61.147/PLTV/88888910/224/3221225557/10000100000000060000000000107337_0.smil
+北京卫视,http://116.128.242.83:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 北京卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 北京卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -5262,8 +5272,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 北京卫视,http://220.201.218.83/rtp/229.58.190.65:5000$黑龙江联通组播源-cache:220.201.218.83
 北京卫视,http://1.62.3.47/rtp/229.58.190.65:5000$黑龙江联通组播源-cache:1.62.3.47
 北京卫视,http://218.8.87.96/rtp/229.58.190.65:5000$黑龙江联通组播源-cache:218.8.87.96
-北京卫视,http://120.211.62.180:8000/hls/35/index.m3u8
-北京卫视,http://113.90.245.216:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://172.16.254.254
 北京卫视,http://120.196.232.17
 北京卫视,http://10.8.8.200
@@ -5401,8 +5409,10 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 北京卫视,http://119.125.104.167/rtp/239.77.0.91:5146
 北京卫视,http://14.117.233.248/rtp/239.77.0.91:5146
 北京卫视,http://183.239.248.42/rtp/239.10.0.131:1025
-湖北卫视,http://116.128.242.83:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://124.116.183.146:9901/tsfile/live/0132_1.m3u8
+北京卫视,http://183.238.186.115/rtp/239.10.0.131:1025
+北京卫视,http://183.239.248.42/rtp/239.20.0.121:2040
+北京卫视,http://183.238.186.115/rtp/239.20.0.121:2040
+湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 湖北卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 湖北卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -5901,7 +5911,7 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 湖北卫视,http://123.129.70.178/rtp/239.253.254.88:8000
 湖北卫视,http://123.174.106.130/rtp/239.1.1.32:8032
 湖北卫视,http://113.25.252.226/rtp/239.1.1.32:8032
-黑龙江卫视,http://124.116.183.146:9901/tsfile/live/0143_1.m3u8?key=txiptv
+湖北卫视,http://171.118.171.71/rtp/226.0.2.49:8304
 黑龙江卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 黑龙江卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 黑龙江卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -6274,7 +6284,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 黑龙江卫视,http://220.201.218.83/rtp/229.58.190.125:5000$黑龙江联通组播源-cache:220.201.218.83
 黑龙江卫视,http://1.62.3.47/rtp/229.58.190.125:5000$黑龙江联通组播源-cache:1.62.3.47
 黑龙江卫视,http://218.8.87.96/rtp/229.58.190.125:5000$黑龙江联通组播源-cache:218.8.87.96
-黑龙江卫视,http://113.90.245.216:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://172.16.254.254
 黑龙江卫视,http://120.196.232.17
 黑龙江卫视,http://10.8.8.200
@@ -6401,9 +6410,8 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 黑龙江卫视,http://183.185.41.247/rtp/226.0.2.48:8296
 黑龙江卫视,http://118.79.19.167/rtp/226.0.2.48:8296
 黑龙江卫视,http://118.81.165.118/rtp/226.0.2.48:8296
-安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://61.138.128.226:19901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
+黑龙江卫视,http://171.117.244.209/rtp/226.0.2.48:8296
+黑龙江卫视,http://113.118.163.105/rtp/239.77.1.71:5146
 安徽卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 安徽卫视,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829313317020.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 安徽卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -6779,8 +6787,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 安徽卫视,http://220.201.218.83/rtp/229.58.190.71:5000$黑龙江联通组播源-cache:220.201.218.83
 安徽卫视,http://1.62.3.47/rtp/229.58.190.71:5000$黑龙江联通组播源-cache:1.62.3.47
 安徽卫视,http://218.8.87.96/rtp/229.58.190.71:5000$黑龙江联通组播源-cache:218.8.87.96
-安徽卫视,http://120.211.62.180:8000/hls/33/index.m3u8
-安徽卫视,http://113.90.245.216:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://172.16.254.254
 安徽卫视,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829313317020.m3u8
 安徽卫视,http://10.8.8.200
@@ -6901,10 +6907,14 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 安徽卫视,http://183.185.64.87/rtp/226.0.2.37:8208
 安徽卫视,http://118.79.112.54/rtp/226.0.2.37:8208
 安徽卫视,http://171.117.73.77/rtp/226.0.2.37:8208
-重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://113.25.252.226:9901/tsfile/live/0142_1.m3u8#rtsp://115.85.232.19/PLTV/88888910/224/3221225856/376468527.smil
-重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
-重庆卫视,http://123.130.84.106:8154/tsfile/live/0142_1.m3u8
+安徽卫视,http://171.116.223.133/rtp/226.0.2.37:8208
+安徽卫视,http://183.184.205.163/rtp/226.0.2.37:8208
+安徽卫视,http://221.205.134.86/rtp/226.0.2.37:8208
+安徽卫视,http://183.185.41.247/rtp/226.0.2.37:8208
+安徽卫视,http://118.79.19.167/rtp/226.0.2.37:8208
+重庆卫视,http://218.89.240.144:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://111.14.181.15:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://116.128.242.83:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 重庆卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 重庆卫视,http://222.67.177.132/rtp/239.45.1.84:5140$上海电信组播源-cache:222.67.177.132
@@ -7401,8 +7411,9 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 重庆卫视,http://118.81.165.118/rtp/226.0.2.50:8312
 重庆卫视,http://171.117.244.209/rtp/226.0.2.50:8312
 重庆卫视,http://113.118.163.105/rtp/239.77.1.16:5146
-东方卫视,http://218.89.240.144:59901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
+重庆卫视,http://113.65.7.94/rtp/239.77.1.16:5146
+东方卫视,http://221.2.148.205:8154/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 东方卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 东方卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -7765,7 +7776,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 东方卫视,http://220.201.218.83/rtp/229.58.190.54:5000$黑龙江联通组播源-cache:220.201.218.83
 东方卫视,http://1.62.3.47/rtp/229.58.190.54:5000$黑龙江联通组播源-cache:1.62.3.47
 东方卫视,http://218.8.87.96/rtp/229.58.190.54:5000$黑龙江联通组播源-cache:218.8.87.96
-东方卫视,http://hmfs.f3322.net:3388/hls/24/index.m3u8
 东方卫视,http://172.16.254.254
 东方卫视,http://120.196.232.17
 东方卫视,http://10.8.8.200
@@ -7901,7 +7911,9 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 东方卫视,http://113.94.58.16/rtp/239.77.1.48:5146
 东方卫视,http://113.86.205.59/rtp/239.77.1.48:5146
 东方卫视,http://183.24.219.236/rtp/239.77.1.48:5146
-东南卫视,http://113.57.111.4:1111/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://58.62.234.69/rtp/239.77.1.48:5146
+东南卫视,http://218.89.240.144:59901/tsfile/live/0137_1.m3u8#rtsp://60.13.23.179/PLTV/88888910/224/3221225853/376430608.smil
+东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 东南卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 东南卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -8256,7 +8268,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 东南卫视,http://220.201.218.83/rtp/229.58.190.168:5000$黑龙江联通组播源-cache:220.201.218.83
 东南卫视,http://1.62.3.47/rtp/229.58.190.168:5000$黑龙江联通组播源-cache:1.62.3.47
 东南卫视,http://218.8.87.96/rtp/229.58.190.168:5000$黑龙江联通组播源-cache:218.8.87.96
-东南卫视,http://hmfs.f3322.net:3388/hls/26/index.m3u8
 东南卫视,http://172.16.254.254
 东南卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8
 东南卫视,http://10.8.8.200
@@ -8401,7 +8412,7 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 东南卫视,http://113.116.19.137/rtp/239.77.1.213:5146
 东南卫视,http://113.94.58.16/rtp/239.77.1.213:5146
 东南卫视,http://113.86.205.59/rtp/239.77.1.213:5146
-甘肃卫视,http://118.122.189.74:9901/tsfile/live/0141_1.m3u8
+甘肃卫视,http://120.238.94.10:9901/tsfile/live/1079_1.m3u8?key=txiptv
 甘肃卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 甘肃卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -8901,8 +8912,8 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 甘肃卫视,http://76.5432123.xyz/杂项代理/学习强国.php?id=gsws
 甘肃卫视,http://123.138.22.30:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://123.132.233.194:352/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://113.25.252.226:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0#rtsp://115.85.232.19/PLTV/88888910/224/3221225552/10000100000000060000000000107332_0.smil
+广西卫视,http://111.14.181.15:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 广西卫视,https://live.gxrb.com.cn/tv/gxtvlive01/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 广西卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -9209,7 +9220,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 广西卫视,http://220.201.218.83/rtp/229.58.190.145:5000$黑龙江联通组播源-cache:220.201.218.83
 广西卫视,http://1.62.3.47/rtp/229.58.190.145:5000$黑龙江联通组播源-cache:1.62.3.47
 广西卫视,http://218.8.87.96/rtp/229.58.190.145:5000$黑龙江联通组播源-cache:218.8.87.96
-广西卫视,http://hmfs.f3322.net:3388/hls/27/index.m3u8
 广西卫视,http://172.16.254.254
 广西卫视,https://live.gxrb.com.cn/tv/gxtvlive01/index.m3u8
 广西卫视,http://10.8.8.200
@@ -9401,7 +9411,9 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 广西卫视,http://218.87.237.105/rtp/239.252.219.183:5140
 广西卫视,http://115.148.107.107/rtp/239.252.219.183:5140
 广西卫视,http://111.78.110.235/rtp/239.252.219.183:5140
-贵州卫视,http://118.122.189.74:9901/tsfile/live/0120_1.m3u8
+广西卫视,http://115.148.98.221/rtp/239.252.219.183:5140
+贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://111.14.181.15:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 贵州卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 贵州卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226220/1.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -9774,7 +9786,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 贵州卫视,http://220.201.218.83/rtp/229.58.190.143:5000$黑龙江联通组播源-cache:220.201.218.83
 贵州卫视,http://1.62.3.47/rtp/229.58.190.143:5000$黑龙江联通组播源-cache:1.62.3.47
 贵州卫视,http://218.8.87.96/rtp/229.58.190.143:5000$黑龙江联通组播源-cache:218.8.87.96
-贵州卫视,http://113.90.245.216:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://172.16.254.254
 贵州卫视,http://120.196.232.17
 贵州卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226220/1.m3u8
@@ -9901,7 +9912,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 贵州卫视,http://221.205.134.86/rtp/226.0.2.43:8256
 贵州卫视,http://183.185.41.247/rtp/226.0.2.43:8256
 贵州卫视,http://118.79.19.167/rtp/226.0.2.43:8256
-海南卫视,http://61.138.128.226:19901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://222.67.177.132/rtp/239.45.1.81:5140$上海电信组播源-cache:222.67.177.132
 海南卫视,http://222.68.37.58/rtp/239.45.1.81:5140$上海电信组播源-cache:222.68.37.58
 海南卫视,http://58.37.123.53/rtp/239.45.1.81:5140$上海电信组播源-cache:58.37.123.53
@@ -10215,7 +10225,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 海南卫视,http://220.201.218.83/rtp/229.58.190.141:5000$黑龙江联通组播源-cache:220.201.218.83
 海南卫视,http://1.62.3.47/rtp/229.58.190.141:5000$黑龙江联通组播源-cache:1.62.3.47
 海南卫视,http://218.8.87.96/rtp/229.58.190.141:5000$黑龙江联通组播源-cache:218.8.87.96
-海南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 海南卫视,http://222.67.177.132/rtp/239.45.1.81:5140
 海南卫视,http://222.68.37.58/rtp/239.45.1.81:5140
 海南卫视,http://58.37.123.53/rtp/239.45.1.81:5140
@@ -10401,9 +10410,10 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 海南卫视,http://106.5.174.246/rtp/239.252.219.178:5140
 海南卫视,http://218.87.237.106/rtp/239.252.219.178:5140
 海南卫视,http://115.148.103.144/rtp/239.252.219.178:5140
-河北卫视,http://61.156.228.12:8154/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://111.14.181.15:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+海南卫视,http://218.87.237.105/rtp/239.252.219.178:5140
+海南卫视,http://115.148.107.107/rtp/239.252.219.178:5140
+河北卫视,http://218.89.240.144:59901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 河北卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 河北卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 河北卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -10777,7 +10787,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 河北卫视,http://220.201.218.83/rtp/229.58.190.55:5000$黑龙江联通组播源-cache:220.201.218.83
 河北卫视,http://1.62.3.47/rtp/229.58.190.55:5000$黑龙江联通组播源-cache:1.62.3.47
 河北卫视,http://218.8.87.96/rtp/229.58.190.55:5000$黑龙江联通组播源-cache:218.8.87.96
-河北卫视,http://120.211.62.180:8000/hls/19/index.m3u8
 河北卫视,http://172.16.254.254
 河北卫视,http://120.196.232.17
 河北卫视,http://10.8.8.200
@@ -10901,7 +10910,11 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 河北卫视,http://171.116.223.133/rtp/226.0.2.65:8432
 河北卫视,http://183.184.205.163/rtp/226.0.2.65:8432
 河北卫视,http://221.205.134.86/rtp/226.0.2.65:8432
-河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://183.185.41.247/rtp/226.0.2.65:8432
+河北卫视,http://118.79.19.167/rtp/226.0.2.65:8432
+河南卫视,http://218.89.240.144:59901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://120.238.94.10:9901/tsfile/live/1068_1.m3u8?key=txiptv
+河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 河南卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 河南卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -11264,8 +11277,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 河南卫视,http://220.201.218.83/rtp/229.58.190.62:5000$黑龙江联通组播源-cache:220.201.218.83
 河南卫视,http://1.62.3.47/rtp/229.58.190.62:5000$黑龙江联通组播源-cache:1.62.3.47
 河南卫视,http://218.8.87.96/rtp/229.58.190.62:5000$黑龙江联通组播源-cache:218.8.87.96
-河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8
-河南卫视,http://113.90.245.216:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://172.16.254.254
 河南卫视,http://120.196.232.17
 河南卫视,http://10.8.8.200
@@ -11401,7 +11412,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 河南卫视,http://118.79.112.54/rtp/226.0.2.195:9472
 河南卫视,http://171.117.73.77/rtp/226.0.2.195:9472
 河南卫视,http://171.116.223.133/rtp/226.0.2.195:9472
-吉林卫视,http://58.19.43.46:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 吉林卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 吉林卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -11901,7 +11911,10 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 吉林卫视,http://58.221.214.82/rtp/239.49.8.187:6000
 吉林卫视,http://117.86.50.46/rtp/239.49.8.187:6000
 吉林卫视,http://117.60.60.50/rtp/239.49.8.187:6000
-江苏卫视,http://218.89.240.144:59901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://117.86.48.191/rtp/239.49.8.187:6000
+江苏卫视,http://221.226.51.220:50081/newlive/live/hls/18/live.m3u8#rtsp://180.95.143.19/PLTV/88888910/224/3221225569/10000100000000060000000000107349_0.smil
+江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://218.3.138.25:1111/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 江苏卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 江苏卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 江苏卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -12290,8 +12303,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 江苏卫视,http://220.201.218.83/rtp/229.58.190.147:5000$黑龙江联通组播源-cache:220.201.218.83
 江苏卫视,http://1.62.3.47/rtp/229.58.190.147:5000$黑龙江联通组播源-cache:1.62.3.47
 江苏卫视,http://218.8.87.96/rtp/229.58.190.147:5000$黑龙江联通组播源-cache:218.8.87.96
-江苏卫视,http://120.211.62.180:8000/hls/32/index.m3u8
-江苏卫视,http://113.90.245.216:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://172.16.254.254
 江苏卫视,http://120.196.232.17
 江苏卫视,http://10.8.8.200
@@ -12401,8 +12412,8 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 江苏卫视,http://221.0.78.198/rtp/239.253.254.83:8000
 江苏卫视,http://112.255.74.68/rtp/239.253.254.83:8000
 江苏卫视,http://221.0.78.26/rtp/239.253.254.83:8000
-江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://223.241.247.214:9901/tsfile/live/0138_1.m3u8#rtsp://60.13.39.19/PLTV/88888910/224/3221225541/10000100000000060000000000107321_0.smil#rtsp://180.95.143.19/PLTV/88888910/224/3221225541/10000100000000060000000000107321_0.smil
+江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://218.89.240.144:59901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 江西卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 江西卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -12778,7 +12789,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 江西卫视,http://220.201.218.83/rtp/229.58.190.74:5000$黑龙江联通组播源-cache:220.201.218.83
 江西卫视,http://1.62.3.47/rtp/229.58.190.74:5000$黑龙江联通组播源-cache:1.62.3.47
 江西卫视,http://218.8.87.96/rtp/229.58.190.74:5000$黑龙江联通组播源-cache:218.8.87.96
-江西卫视,http://113.90.245.216:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://172.16.254.254
 江西卫视,http://120.196.232.17
 江西卫视,http://10.8.8.200
@@ -12901,9 +12911,8 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 江西卫视,http://171.117.73.77/rtp/226.0.2.54:8344
 江西卫视,http://171.116.223.133/rtp/226.0.2.54:8344
 江西卫视,http://183.184.205.163/rtp/226.0.2.54:8344
-辽宁卫视,http://61.156.228.12:8154/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://218.89.240.144:59901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+江西卫视,http://221.205.134.86/rtp/226.0.2.54:8344
+辽宁卫视,http://dassby.qqff.top:99/live/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85/index.m3u8
 辽宁卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 辽宁卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 辽宁卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -13300,7 +13309,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 辽宁卫视,http://220.201.218.83/rtp/229.58.190.146:5000$黑龙江联通组播源-cache:220.201.218.83
 辽宁卫视,http://1.62.3.47/rtp/229.58.190.146:5000$黑龙江联通组播源-cache:1.62.3.47
 辽宁卫视,http://218.8.87.96/rtp/229.58.190.146:5000$黑龙江联通组播源-cache:218.8.87.96
-辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8
 辽宁卫视,http://172.16.254.254
 辽宁卫视,http://120.196.232.17
 辽宁卫视,http://10.8.8.200
@@ -13401,7 +13409,11 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 辽宁卫视,http://139.129.231.228/rtp/239.21.1.164:5002
 辽宁卫视,http://27.197.125.139/rtp/239.253.254.92:8000
 辽宁卫视,http://39.65.42.4/rtp/239.253.254.92:8000
-内蒙古卫视,http://61.156.228.12:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://27.193.89.99/rtp/239.253.254.92:8000
+辽宁卫视,http://27.214.219.131/rtp/239.253.254.92:8000
+辽宁卫视,http://123.130.84.106/rtp/239.253.254.92:8000
+内蒙古卫视,http://123.130.84.106:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 内蒙古卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 内蒙古卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 内蒙古卫视,http://222.67.177.132/rtp/239.45.1.238:5140$上海电信组播源-cache:222.67.177.132
@@ -13853,7 +13865,7 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8
 内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
 内蒙古卫视,http://182.150.23.74:808/hls/37/index.m3u8
-宁夏卫视,http://123.130.84.106:8154/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8#rtsp://60.13.23.179/PLTV/88888910/224/3221225563/10000100000000060000000000107343_0.smil#rtsp://115.85.232.19/PLTV/88888910/224/3221225563/10000100000000060000000000107343_0.smil
 宁夏卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 宁夏卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 宁夏卫视,http://222.67.177.132/rtp/239.45.1.213:5140$上海电信组播源-cache:222.67.177.132
@@ -14353,8 +14365,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 宁夏卫视,http://www.shizhan.love:8848/udp/239.49.0.171:8000
 宁夏卫视,http://119.36.148.115:59901/tsfile/live/0112_1.m3u8
 宁夏卫视,http://221.205.180.88:8003/rtp/226.0.2.64:8424
-青海卫视,http://123.130.84.106:8154/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://61.138.128.226:19901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 青海卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -14853,7 +14863,9 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 青海卫视,http://60.209.125.254:352/tsfile/live/0140_1.m3u8?ace
 青海卫视,http://1.197.127.114:10443/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://58.221.214.82:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://222.169.85.8:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://39.164.180.36:19901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+青海卫视,http://106.124.91.222:9901/tsfile/live/21213_1.m3u8
+山东卫视,http://116.128.242.83:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 山东卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 山东卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -15235,8 +15247,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 山东卫视,http://220.201.218.83/rtp/229.58.190.33:5000$黑龙江联通组播源-cache:220.201.218.83
 山东卫视,http://1.62.3.47/rtp/229.58.190.33:5000$黑龙江联通组播源-cache:1.62.3.47
 山东卫视,http://218.8.87.96/rtp/229.58.190.33:5000$黑龙江联通组播源-cache:218.8.87.96
-山东卫视,http://120.211.62.180:8000/hls/38/index.m3u8
-山东卫视,http://113.90.245.216:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://172.16.254.254
 山东卫视,http://120.196.232.17
 山东卫视,http://10.8.8.200
@@ -15353,7 +15363,11 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 山东卫视,http://118.79.112.54/rtp/226.0.2.51:8320
 山东卫视,http://171.117.73.77/rtp/226.0.2.51:8320
 山东卫视,http://171.116.223.133/rtp/226.0.2.51:8320
-山西卫视,http://119.36.148.115:59901/tsfile/live/0118_1.m3u8
+山东卫视,http://183.184.205.163/rtp/226.0.2.51:8320
+山东卫视,http://221.205.134.86/rtp/226.0.2.51:8320
+山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://61.156.228.12:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://124.128.73.58:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 山西卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 山西卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -15851,9 +15865,10 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 山西卫视,http://123.138.22.30:9901/tsfile/live/0118_1.m3u8
 山西卫视,http://110.80.17.38:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://123.132.233.194:352/tsfile/live/0118_1.m3u8
-山西卫视,http://112.6.165.112:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://www.peanutbar.cn:8099/tsfile/live/0118_1.m3u8?key=txiptv&url=tvzb.com
-陕西卫视,http://110.80.17.38:9901/tsfile/live/0136_1.m3u8
+陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://221.2.148.205:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://61.156.228.12:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://120.238.94.10:9901/tsfile/live/1070_1.m3u8?key=txiptv#rtsp://115.85.232.19/PLTV/88888910/224/3221225544/10000100000000060000000000107324_0.smil
 陕西卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 陕西卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 陕西卫视,http://222.67.177.132/rtp/239.45.1.232:5140$上海电信组播源-cache:222.67.177.132
@@ -16350,11 +16365,9 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 陕西卫视,http://116.117.107.84:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0#rtsp://60.13.23.179/PLTV/88888910/224/3221225544/10000100000000060000000000107324_0.smil
 陕西卫视,http://110.7.131.4:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://110.7.131.193:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://110.7.131.40:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://211.101.234.24:866/aishang/migu.php/migu.php?id=sxws
-陕西卫视,http://dassby.qqff.top:99/live/陕西卫视/index.m3u8
-四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0#rtsp://180.95.143.19/PLTV/88888910/224/3221225543/10000100000000060000000000107323_0.smil
-四川卫视,http://124.116.183.146:9901/tsfile/live/0123_1.m3u8
+四川卫视,http://218.89.240.144:59901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://111.14.181.15:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 四川卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 四川卫视,http://222.67.177.132/rtp/239.45.1.83:5140$上海电信组播源-cache:222.67.177.132
@@ -16755,7 +16768,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 四川卫视,http://220.201.218.83/rtp/229.58.190.73:5000$黑龙江联通组播源-cache:220.201.218.83
 四川卫视,http://1.62.3.47/rtp/229.58.190.73:5000$黑龙江联通组播源-cache:1.62.3.47
 四川卫视,http://218.8.87.96/rtp/229.58.190.73:5000$黑龙江联通组播源-cache:218.8.87.96
-四川卫视,http://113.90.245.216:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://172.16.254.254
 四川卫视,http://10.8.8.200
 四川卫视,http://222.67.177.132/rtp/239.45.1.83:5140
@@ -16853,12 +16865,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 四川卫视,http://113.128.128.56/rtp/239.21.2.15:5002
 四川卫视,http://113.120.193.44/rtp/239.21.2.15:5002
 四川卫视,http://139.129.231.228/rtp/239.21.2.15:5002
-深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://124.116.183.146:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://111.14.181.15:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://61.138.128.226:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 深圳卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 深圳卫视,http://222.67.177.132/rtp/239.45.3.231:5140$上海电信组播源-cache:222.67.177.132
@@ -17250,8 +17256,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 深圳卫视,http://220.201.218.83/rtp/229.58.190.104:5000$黑龙江联通组播源-cache:220.201.218.83
 深圳卫视,http://1.62.3.47/rtp/229.58.190.104:5000$黑龙江联通组播源-cache:1.62.3.47
 深圳卫视,http://218.8.87.96/rtp/229.58.190.104:5000$黑龙江联通组播源-cache:218.8.87.96
-深圳卫视,http://hmfs.f3322.net:3388/hls/25/index.m3u8
-深圳卫视,http://113.90.245.216:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://172.16.254.254
 深圳卫视,http://10.8.8.200
 深圳卫视,http://222.67.177.132/rtp/239.45.3.231:5140
@@ -17353,6 +17357,14 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 深圳卫视,http://39.65.42.4/rtp/239.253.254.91:8000
 深圳卫视,http://27.193.89.99/rtp/239.253.254.91:8000
 深圳卫视,http://27.214.219.131/rtp/239.253.254.91:8000
+深圳卫视,http://123.130.84.106/rtp/239.253.254.91:8000
+深圳卫视,http://61.156.228.12/rtp/239.253.254.91:8000
+深圳卫视,http://119.191.124.47/rtp/239.253.254.91:8000
+深圳卫视,http://123.132.233.194/rtp/239.253.254.91:8000
+深圳卫视,http://221.0.78.198/rtp/239.253.254.91:8000
+深圳卫视,http://112.255.74.68/rtp/239.253.254.91:8000
+深圳卫视,http://221.0.78.26/rtp/239.253.254.91:8000
+深圳卫视,http://124.128.73.58/rtp/239.253.254.91:8000
 三沙卫视,http://222.67.177.132/rtp/239.45.1.82:5140$上海电信组播源-cache:222.67.177.132
 三沙卫视,http://222.68.37.58/rtp/239.45.1.82:5140$上海电信组播源-cache:222.68.37.58
 三沙卫视,http://58.37.123.53/rtp/239.45.1.82:5140$上海电信组播源-cache:58.37.123.53
@@ -17631,8 +17643,8 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 三沙卫视,http://119.36.148.115:59901/tsfile/live/1009_1.m3u8
 三沙卫视,http://61.138.128.226:19901/tsfile/live/1020_1.m3u8
 三沙卫视,http://61.138.128.226:19901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://221.2.148.205:8154/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://124.116.183.146:9901/tsfile/live/0135_1.m3u8
+天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://218.89.240.144:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 天津卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 天津卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -18023,8 +18035,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 天津卫视,http://220.201.218.83/rtp/229.58.190.68:5000$黑龙江联通组播源-cache:220.201.218.83
 天津卫视,http://1.62.3.47/rtp/229.58.190.68:5000$黑龙江联通组播源-cache:1.62.3.47
 天津卫视,http://218.8.87.96/rtp/229.58.190.68:5000$黑龙江联通组播源-cache:218.8.87.96
-天津卫视,http://120.211.62.180:8000/hls/36/index.m3u8
-天津卫视,http://113.90.245.216:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://172.16.254.254
 天津卫视,http://120.196.232.17
 天津卫视,http://10.8.8.200
@@ -18131,11 +18141,8 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 天津卫视,http://61.156.228.12/rtp/239.253.254.89:8000
 天津卫视,http://119.191.124.47/rtp/239.253.254.89:8000
 天津卫视,http://123.132.233.194/rtp/239.253.254.89:8000
-西藏卫视,http://1.180.2.93:9901/tsfile/live/0111_1.m3u8#rtsp://60.13.39.18/PLTV/88888910/224/3221225560/10000100000000060000000000107340_0.smil
-西藏卫视,http://119.36.148.115:59901/tsfile/live/0111_1.m3u8
-西藏卫视,http://124.128.73.58:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://120.238.94.10:9901/tsfile/live/1077_1.m3u8?key=txiptv
-西藏卫视,http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&auth=666858
+天津卫视,http://221.0.78.198/rtp/239.253.254.89:8000
+天津卫视,http://112.255.74.68/rtp/239.253.254.89:8000
 西藏卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 西藏卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 西藏卫视,http://222.67.177.132/rtp/239.45.1.231:5140$上海电信组播源-cache:222.67.177.132
@@ -18352,6 +18359,7 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 西藏卫视,http://220.201.218.83/rtp/229.58.190.177:5000$黑龙江联通组播源-cache:220.201.218.83
 西藏卫视,http://1.62.3.47/rtp/229.58.190.177:5000$黑龙江联通组播源-cache:1.62.3.47
 西藏卫视,http://218.8.87.96/rtp/229.58.190.177:5000$黑龙江联通组播源-cache:218.8.87.96
+西藏卫视,http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&auth=666858
 西藏卫视,http://172.16.254.254
 西藏卫视,http://10.8.8.200
 西藏卫视,http://222.67.177.132/rtp/239.45.1.231:5140
@@ -18631,7 +18639,11 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 西藏卫视,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225570/iptv101725.smil
 西藏卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225570/iptv101725.smil
 西藏卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225570/iptv101725.smil
-新疆卫视,http://124.128.73.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221225570/iptv101725.smil
+西藏卫视,rtsp://115.153.230.145/PLTV/88888888/224/3221225570/iptv101725.smil
+西藏卫视,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225570/iptv101725.smil
+西藏卫视,rtsp://60.13.27.115/PLTV/88888910/224/3221225560/10000100000000060000000000107340_0.smil
+新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 新疆卫视,http://120.196.232.17$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 新疆卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
@@ -19094,8 +19106,7 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 新疆卫视,http://61.156.228.12:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://113.25.252.226:9901/tsfile/live/0110_1.m3u8
 新疆卫视,http://58.57.40.22:9901/tsfile/live/1055_1.m3u8
-云南卫视,http://124.128.73.58:9901/tsfile/live/0119_1.m3u8?key=txiptv
-云南卫视,http://110.7.131.40:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0#rtsp://180.95.143.19/PLTV/88888910/224/3221225554/10000100000000060000000000107334_0.smil
+云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 云南卫视,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 云南卫视,http://222.67.177.132/rtp/239.45.0.4:5140$上海电信组播源-cache:222.67.177.132
@@ -19423,8 +19434,6 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 云南卫视,http://220.201.218.83/rtp/229.58.190.176:5000$黑龙江联通组播源-cache:220.201.218.83
 云南卫视,http://1.62.3.47/rtp/229.58.190.176:5000$黑龙江联通组播源-cache:1.62.3.47
 云南卫视,http://218.8.87.96/rtp/229.58.190.176:5000$黑龙江联通组播源-cache:218.8.87.96
-云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8
-云南卫视,http://113.90.245.216:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://172.16.254.254
 云南卫视,http://10.8.8.200
 云南卫视,http://222.67.177.132/rtp/239.45.0.4:5140
@@ -19594,8 +19603,12 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 云南卫视,http://183.238.186.115/rtp/239.11.0.171:1025
 云南卫视,http://183.239.248.42/rtp/239.21.0.133:3876
 云南卫视,http://183.238.186.115/rtp/239.21.0.133:3876
+云南卫视,http://183.239.248.42/rtp/239.20.0.145:2088
+云南卫视,http://183.238.186.115/rtp/239.20.0.145:2088
+云南卫视,http://183.239.248.42/rtp/239.10.0.155:1025
 
 港·澳·台,#genre#
+翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 翡翠台,http://m.osvs.asia:8000/bysid/1
 翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8
@@ -19615,6 +19628,7 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 明珠台,http://huangtong-com.cn:9902/tsfile/live/1009_1.m3u8
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 明珠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+凤凰中文,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzw
 凤凰中文,http://125.70.223.124/rtp/239.93.1.9:2192$四川电信组播源-cache:125.70.223.124
 凤凰中文,http://118.116.81.215/rtp/239.93.1.9:2192$四川电信组播源-cache:118.116.81.215
 凤凰中文,http://171.217.157.203/rtp/239.93.1.9:2192$四川电信组播源-cache:171.217.157.203
@@ -19722,6 +19736,7 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 凤凰中文,http://211.72.65.236:8576/.m3u8
 凤凰中文,http://ycsj.aguihome.com:4022/udp/233.50.200.42:5140
 凤凰中文,http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140
+凤凰资讯,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx
 凤凰资讯,http://125.70.223.124/rtp/239.93.1.4:2191$四川电信组播源-cache:125.70.223.124
 凤凰资讯,http://118.116.81.215/rtp/239.93.1.4:2191$四川电信组播源-cache:118.116.81.215
 凤凰资讯,http://171.217.157.203/rtp/239.93.1.4:2191$四川电信组播源-cache:171.217.157.203
@@ -19831,6 +19846,7 @@ CCTV高尔夫球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 凤凰资讯,http://211.72.65.236:8577/.m3u8
 凤凰资讯,http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140
 凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+凤凰香港,http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk
 凤凰香港,http://42.92.195.166/rtp/239.255.30.123:8231$甘肃电信组播源-cache:42.92.195.166
 凤凰香港,http://42.92.195.166/rtp/239.255.30.123:8231
 凤凰香港,http://ttkx.cc:1380/公5558/fh.php
@@ -20299,6 +20315,7 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 无线星河,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476200.m3u8
 无线星河,http://cdn9.1689.us.kg/smt1.1.php
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 星空卫视,http://ali.hlspull.yximgs.com/live/facf94ac3441dc4e5f8e48d1eeb18045.flv
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8
@@ -20333,6 +20350,9 @@ CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 CCTV5,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8
 CCTV5,http://218.15.183.23:9901/tsfile/live/23022_1.m3u8
 CCTV5,http://qjrhc.jydjd.top:2911/udp/225.1.101.187:7523
+CCTV5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://123.129.70.178:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://113.90.245.216:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5,http://tv.tslgpt.top:5050/smart.php
@@ -21007,6 +21027,7 @@ CCTV5+,http://122.9.151.210:2498/rtp/238.255.2.185:5999
 超级体育,http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://140.245.86.67:50001/1000000004000014634/ystenlive/index.m3u8
 精品体育,http://146.235.213.45:35455/itv/1000000004000014634.m3u8
+广州竞赛,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb
 广州竞赛,http://113.118.163.105/rtp/239.253.43.70:5146$广东电信组播源-cache:113.118.163.105
 广州竞赛,http://113.65.7.94/rtp/239.253.43.70:5146$广东电信组播源-cache:113.65.7.94
 广州竞赛,http://116.21.125.5/rtp/239.253.43.70:5146$广东电信组播源-cache:116.21.125.5
@@ -22939,6 +22960,7 @@ JJ斗地主,https://lunbo.freetv.top/douyu/488743
 CN卡通,http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 CN卡通,http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+优漫卡通,http://58.221.214.82:9901/tsfile/live/0008_2.m3u8?key=txiptv
 优漫卡通,http://111.127.227.60/rtp/239.29.0.127:5000$内蒙古电信组播源-cache:111.127.227.60
 优漫卡通,http://1.183.139.254/rtp/239.29.0.127:5000$内蒙古电信组播源-cache:1.183.139.254
 优漫卡通,http://1.183.141.194/rtp/239.29.0.127:5000$内蒙古电信组播源-cache:1.183.141.194
@@ -23082,11 +23104,7 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 优漫卡通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227339/index.m3u8
 优漫卡通,http://36.105.100.208:35455/itv/1000000002000010063.m3u8?cdn=ystenlive
 优漫卡通,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
-金鹰卡通,http://112.99.193.34:9901/tsfile/live/1034_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://125.42.148.189:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://1.197.249.55:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://172.16.254.254$浙江酒店源-cache:http://47.99.164.242/ZHGXTV/Public/json/live_interface.txt
 金鹰卡通,http://10.8.8.200$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 金鹰卡通,http://222.67.177.132/rtp/239.45.3.118:5140$上海电信组播源-cache:222.67.177.132
@@ -23364,10 +23382,8 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 金鹰卡通,http://220.201.218.83/rtp/229.58.190.98:5000$黑龙江联通组播源-cache:220.201.218.83
 金鹰卡通,http://1.62.3.47/rtp/229.58.190.98:5000$黑龙江联通组播源-cache:1.62.3.47
 金鹰卡通,http://218.8.87.96/rtp/229.58.190.98:5000$黑龙江联通组播源-cache:218.8.87.96
-金鹰卡通,http://101.66.198.44:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://101.66.198.103:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://221.13.235.75:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://221.13.235.104:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://125.42.148.189:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://1.197.249.55:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://172.16.254.254
 金鹰卡通,http://10.8.8.200
 金鹰卡通,http://222.67.177.132/rtp/239.45.3.118:5140
@@ -23582,6 +23598,12 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 金鹰卡通,http://111.172.12.162/rtp/239.69.1.248:11130
 金鹰卡通,http://119.98.161.79/rtp/239.69.1.248:11130
 金鹰卡通,http://219.140.224.96/rtp/239.69.1.248:11130
+金鹰卡通,http://58.19.38.162/rtp/228.0.0.59:6108
+金鹰卡通,http://183.94.1.118/rtp/228.0.0.59:6108
+金鹰卡通,http://119.36.148.115/rtp/228.0.0.59:6108
+金鹰卡通,http://113.57.20.158/rtp/228.0.0.59:6108
+金鹰卡通,http://113.57.93.165/rtp/228.0.0.59:6108
+金鹰卡通,http://113.57.111.4/rtp/228.0.0.59:6108
 黑莓动画,http://36.105.100.208:35455/itv/1000000004000021734.m3u8
 黑莓动画,http://111.40.196.36/PLTV/88888888/224/3221225628/index.m3u8
 黑莓动画,http://39.134.65.166/PLTV/88888888/224/3221225529/index.m3u8
@@ -23818,7 +23840,7 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 音乐频道,#genre#
 CCTV15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV15,http://120.211.62.180:8000/hls/15/index.m3u8
 CCTV15,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 CCTV15,http://113.90.245.216:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
