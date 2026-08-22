@@ -180,6 +180,7 @@ CCTV-3,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226614/1.m3u8
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
 CCTV-3,http://nas.hssvm.com:8888/udp/225.1.1.158:5002
+CCTV-3,http://lu.wqwqwq.sbs/itv/1000000005000265003.m3u8?cdn=ystenlive
 CCTV-4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
 CCTV-4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/index.m3u8
 CCTV-4,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
@@ -230,6 +231,7 @@ CCTV-4,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227167/1.m3u8
 CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4%E6%AC%A7%E6%B4%B2
 CCTV-4,http://nas.hssvm.com:8888/udp/225.1.1.150:5002
+CCTV-4,http://lu.wqwqwq.sbs/itv/1000000005000265004.m3u8?cdn=ystenlive
 CCTV-5,http://go.bkpcp.top/mg/cctv5
 CCTV-5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
 CCTV-5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -491,6 +493,7 @@ CCTV-9,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226726/1.m3u8
 CCTV-9,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227182/1.m3u8
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9%E7%BA%AA%E5%BD%95
 CCTV-9,http://nas.hssvm.com:8888/udp/225.1.1.119:5002
+CCTV-9,http://lu.wqwqwq.sbs/itv/1000000005000265009.m3u8?cdn=ystenlive
 CCTV-10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225496/2/index.m3u8
 CCTV-10,http://go.bkpcp.top/mg/cctv10
 CCTV-10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225627/2/index.m3u8
@@ -591,6 +594,7 @@ CCTV-11,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227171/1.m3u
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11%E6%88%8F%E6%9B%B2
+CCTV-11,http://lu.wqwqwq.sbs/itv/1000000005000265011.m3u8?cdn=ystenlive
 CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 CCTV-12,http://go.bkpcp.top/mg/cctv12
 CCTV-12,https://jzb.wwkejishe.top/?id=590
@@ -638,6 +642,7 @@ CCTV-12,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226479/1.m3u
 CCTV-12,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227184/1.m3u8
 CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
 CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
+CCTV-12,http://lu.wqwqwq.sbs/itv/1000000005000265012.m3u8?cdn=ystenlive
 CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-13,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.m3u8
 CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
@@ -789,6 +794,7 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226590/1.m3u
 CCTV-15,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227175/1.m3u8
 CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,http://nas.hssvm.com:8888/udp/225.1.1.26:5002
+CCTV-15,http://lu.wqwqwq.sbs/itv/1000000005000265014.m3u8?cdn=ystenlive
 CCTV-16,https://smart.pendy.dpdns.org/Smart.php?id=cctv16
 CCTV-16,http://go.bkpcp.top/mg/cctv16
 CCTV-16,https://stream1.freetv.fun/cdd93308f8ffbb06fab05e75d7c91d7ec6d9c68d865738572b52b3e8c959cf14.m3u8
@@ -841,6 +847,8 @@ CCTV-16,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/inde
 CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1756084903216
 CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16
+CCTV-16,http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
+CCTV-16,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-17,http://go.bkpcp.top/mg/cctv17
 CCTV-17,https://jzb.wwkejishe.top/?id=594
 CCTV-17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=202510070801016cec227eabd84d97b8c7aa6b8b7769fa&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251007080101&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.90&SecurityKey=20251007080101&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=94516be40fa8f7a18d2f653dc683bd39&ddCalcu=9934ed50b133608b6ec4d03f5a68ff27da81
@@ -887,6 +895,7 @@ CCTV-17,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226473/1.m3u
 CCTV-17,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226630/1.m3u8
 CCTV-17,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227188/1.m3u8
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
+CCTV-17,http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230974/1.m3u8
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230974/1.m3u8
 CCTV-4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
@@ -983,6 +992,7 @@ CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 CCTV电视指南,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV中学生,http://goo.bkpcp.top/mg/zxs
+CCTV老故事,http://php.jdshipin.com:8880/TVOD/iptv.php
 CCTV老故事,https://other.ottiptv.cc/cwjd.m3u8
 CCTV老故事,http://goo.bkpcp.top/mg/lgs
 CCTV老故事,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
@@ -1004,6 +1014,7 @@ CCTV央视台球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch000000909900
 CCTV高尔夫球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 
 江西频道,#genre#
+江西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 江西卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=20251007080103f9e681fe365f4c4b90f98c9658b1f312&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251007080103&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.90&SecurityKey=20251007080103&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e9048cdf82c99632eb1f5ec91b47f123&ddCalcu=3e29e100f437804cbd1f98c2ec59f916b3e2
 江西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8
 江西卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
@@ -1121,6 +1132,7 @@ CCTV高尔夫球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,https://stream1.freetv.fun/2e3a01b886780ceca10b44bb6cdb57413757275a6fdcb083800db996bc2f81e3.m3u8
 浙江卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8
@@ -1243,7 +1255,6 @@ CCTV高尔夫球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
 北京卫视,https://jzb.wwkejishe.top/?id=608
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
@@ -1415,6 +1426,7 @@ CCTV高尔夫球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 黑龙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 黑龙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+安徽卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 安徽卫视,https://jzb.wwkejishe.top/?id=612
 安徽卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8
 安徽卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226490/1.m3u8
@@ -1895,6 +1907,7 @@ CCTV高尔夫球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw1547508542_-1029566303/ott.mobaibox.com/PLTV/3/224/3221227689/index.m3u8?icpid=3&RTS=1674385957&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 江苏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+江西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 江西卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=20251007080103f9e681fe365f4c4b90f98c9658b1f312&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251007080103&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.90&SecurityKey=20251007080103&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e9048cdf82c99632eb1f5ec91b47f123&ddCalcu=3e29e100f437804cbd1f98c2ec59f916b3e2
 江西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8
 江西卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
@@ -2053,6 +2066,7 @@ CCTV高尔夫球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 青海卫视,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226584/1.m3u8
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
 青海卫视,http://nas.hssvm.com:8888/udp/225.1.1.54:5002
+青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
 山东卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8
 山东卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225952/index.m3u8
 山东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
@@ -2781,6 +2795,7 @@ CCTV15,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226590/1.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227175/1.m3u8
 CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV15,http://nas.hssvm.com:8888/udp/225.1.1.26:5002
+CCTV15,http://lu.wqwqwq.sbs/itv/1000000005000265014.m3u8?cdn=ystenlive
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 
 🈳无结果频道,#genre#
